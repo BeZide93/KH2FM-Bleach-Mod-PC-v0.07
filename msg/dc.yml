@@ -1,0 +1,53 @@
+- id: 5390
+  en: Excuse him. This is our friend, Ichigo.
+- id: 5391
+  en: Oh, Ichigo!
+- id: 5397
+  en: >-
+    I know I can count on you, Ichigo.{:delay 78 00}{:clear }{:delay 28 00}Now, there´s something I´d like
+    all of you to come and see.{:delay DC 00}{:clear }{:delay 1E 00}Would you please escort me to the
+    audience chamber?
+- id: 5405
+  en: No, Ichigo, you´ll just get lost!
+- id: 5410
+  en: >-
+    Yes, Ichigo.
+    Let´s be on our way.
+- id: 5433
+  en: >-
+    If it isn´t the wretched Zanpakuto holder,
+    and his pitiful lackeys!
+- id: 5472
+  en: >-
+    Listen carefully, Ichigo. You must find that door.
+    And when you do--lock it with your Zanpakuto.
+- id: 5497
+  en: Ichigo!
+- id: 13874
+  en: >-
+    I knew Merlin would help!{:clear }Still, our problem´s not solved.
+    Ichigo, I´m counting on you!
+- id: 16123
+  en: >-
+    All these enemies are getting
+    in my way.{:clear }Ichigo, help me
+    defeat them.
+- id: 16124
+  en: >-
+    All that´s left now is to go to
+    the {:theme 0A}audience chamber{:reset}. Hurry, Ichigo!
+- id: 20335
+  en: >-
+    Look over there, Ichigo!
+    That big hole appeared out of nowhere!{:clear }I thought the castle was safe again.
+    What's going on?
+- id: 21410
+  en: A Zanpakuto?{:delay 73 00}{:clear }Who are you?
+- id: 21421
+  en: >-
+    {:unk13 D7 00 42 00}{:unk06 01}{:unk08 03 00 05}We meet again,
+    young Shinegami.
+- id: 21425
+  en: >-
+    {:unk13 96 00 DC 00}{:unk06 02}{:unk08 03 01 06}Oh, Ichigo!
+    What great timing!
