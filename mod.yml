@@ -1,0 +1,777 @@
+title: Bleach
+originalAuthor: You
+description: Generated on Fri, 16 Jan 2026 13:29:35 GMT
+dependencies: 
+assets:
+- name: itempic/item-043.imd
+  method: copy
+  source:
+  - name: itempic/item-043.imd
+- name: itempic/item-044.imd
+  method: copy
+  source:
+  - name: itempic/item-044.imd
+- name: itempic/item-045.imd
+  method: copy
+  source:
+  - name: itempic/item-045.imd
+- name: itempic/item-046.imd
+  method: copy
+  source:
+  - name: itempic/item-046.imd
+- name: itempic/item-047.imd
+  method: copy
+  source:
+  - name: itempic/item-047.imd
+- name: itempic/item-048.imd
+  method: copy
+  source:
+  - name: itempic/item-048.imd
+- name: itempic/item-049.imd
+  method: copy
+  source:
+  - name: itempic/item-049.imd
+- name: itempic/item-050.imd
+  method: copy
+  source:
+  - name: itempic/item-050.imd
+- name: itempic/item-051.imd
+  method: copy
+  source:
+  - name: itempic/item-051.imd
+- name: itempic/item-052.imd
+  method: copy
+  source:
+  - name: itempic/item-052.imd
+- name: itempic/item-053.imd
+  method: copy
+  source:
+  - name: itempic/item-053.imd
+- name: itempic/item-054.imd
+  method: copy
+  source:
+  - name: itempic/item-054.imd
+- name: itempic/item-055.imd
+  method: copy
+  source:
+  - name: itempic/item-055.imd
+- name: itempic/item-056.imd
+  method: copy
+  source:
+  - name: itempic/item-056.imd
+- name: itempic/item-057.imd
+  method: copy
+  source:
+  - name: itempic/item-057.imd
+- name: itempic/item-058.imd
+  method: copy
+  source:
+  - name: itempic/item-058.imd
+- name: itempic/item-059.imd
+  method: copy
+  source:
+  - name: itempic/item-059.imd
+- name: itempic/item-060.imd
+  method: copy
+  source:
+  - name: itempic/item-060.imd
+- name: itempic/item-061.imd
+  method: copy
+  source:
+  - name: itempic/item-061.imd
+- name: itempic/item-062.imd
+  method: copy
+  source:
+  - name: itempic/item-062.imd
+- name: itempic/item-063.imd
+  method: copy
+  source:
+  - name: itempic/item-063.imd
+- name: itempic/item-064.imd
+  method: copy
+  source:
+  - name: itempic/item-064.imd
+- name: itempic/item-300.imd
+  method: copy
+  source:
+  - name: itempic/item-300.imd
+- name: itempic/item-301.imd
+  method: copy
+  source:
+  - name: itempic/item-301.imd
+- name: menu/ending.2ld
+  method: copy
+  source:
+  - name: menu/ending.2ld
+- name: menu/title.2ld
+  method: copy
+  source:
+  - name: menu/title.2ld
+- name: menu/shopface/p_ex100.bin
+  method: copy
+  source:
+  - name: menu/shopface/p_ex100.bin
+- name: menu/shopface/p_ex100_10.bin
+  method: copy
+  source:
+  - name: menu/shopface/p_ex100_10.bin
+- name: menu/shopface/p_ex100_20.bin
+  method: copy
+  source:
+  - name: menu/shopface/p_ex100_20.bin
+- name: menu/shopface/p_ex100_30.bin
+  method: copy
+  source:
+  - name: menu/shopface/p_ex100_30.bin
+- name: menu/shopface/p_ex110.bin
+  method: copy
+  source:
+  - name: menu/shopface/p_ex110.bin
+- name: menu/shopface/p_ex120.bin
+  method: copy
+  source:
+  - name: menu/shopface/p_ex120.bin
+- name: menu/shopface/p_lk100.bin
+  method: copy
+  source:
+  - name: menu/shopface/p_lk100.bin
+- name: menu/shopface/p_xm100.bin
+  method: copy
+  source:
+  - name: menu/shopface/p_xm100.bin
+- name: msg/bb.yml
+  method: copy
+  source:
+  - name: msg/bb.yml
+- name: msg/dc.yml
+  method: copy
+  source:
+  - name: msg/dc.yml
+- name: msg/eh.yml
+  method: copy
+  source:
+  - name: msg/eh.yml
+- name: msg/sys.yml
+  method: copy
+  source:
+  - name: msg/sys.yml
+- name: msg/tt.yml
+  method: copy
+  source:
+  - name: msg/tt.yml
+- name: obj/H_EX500.model
+  method: copy
+  source:
+  - name: obj/H_EX500.model
+- name: obj/H_EX500.texture
+  method: copy
+  source:
+  - name: obj/H_EX500.texture
+- name: obj/H_EX510.model
+  method: copy
+  source:
+  - name: obj/H_EX510.model
+- name: obj/H_EX510.texture
+  method: copy
+  source:
+  - name: obj/H_EX510.texture
+- name: obj/H_EX510_PAJAMAS.model
+  method: copy
+  source:
+  - name: obj/H_EX510_PAJAMAS.model
+- name: obj/H_EX510_PAJAMAS.texture
+  method: copy
+  source:
+  - name: obj/H_EX510_PAJAMAS.texture
+- name: obj/P_EX100.imd
+  method: copy
+  source:
+  - name: obj/P_EX100.imd
+- name: obj/P_EX100.model
+  method: copy
+  source:
+  - name: obj/P_EX100.model
+- name: obj/P_EX100.sqd
+  method: copy
+  source:
+  - name: obj/P_EX100.sqd
+- name: obj/P_EX100.texture
+  method: copy
+  source:
+  - name: obj/P_EX100.texture
+- name: obj/P_EX100_BTLF.model
+  method: copy
+  source:
+  - name: obj/P_EX100_BTLF.model
+- name: obj/P_EX100_BTLF.texture
+  method: copy
+  source:
+  - name: obj/P_EX100_BTLF.texture
+- name: obj/P_EX100_HTLF.model
+  method: copy
+  source:
+  - name: obj/P_EX100_HTLF.model
+- name: obj/P_EX100_HTLF.texture
+  method: copy
+  source:
+  - name: obj/P_EX100_HTLF.texture
+- name: obj/P_EX100_KH1F.model
+  method: copy
+  source:
+  - name: obj/P_EX100_KH1F.model
+- name: obj/P_EX100_KH1F.texture
+  method: copy
+  source:
+  - name: obj/P_EX100_KH1F.texture
+- name: obj/P_EX100_MAGF.model
+  method: copy
+  source:
+  - name: obj/P_EX100_MAGF.model
+- name: obj/P_EX100_MAGF.texture
+  method: copy
+  source:
+  - name: obj/P_EX100_MAGF.texture
+- name: obj/P_EX100_TRIF.model
+  method: copy
+  source:
+  - name: obj/P_EX100_TRIF.model
+- name: obj/P_EX100_TRIF.texture
+  method: copy
+  source:
+  - name: obj/P_EX100_TRIF.texture
+- name: obj/P_EX100_ULTF.model
+  method: copy
+  source:
+  - name: obj/P_EX100_ULTF.model
+- name: obj/P_EX100_ULTF.texture
+  method: copy
+  source:
+  - name: obj/P_EX100_ULTF.texture
+- name: obj/P_EX100_WI.model
+  method: copy
+  source:
+  - name: obj/P_EX100_WI.model
+- name: obj/P_EX100_WI.texture
+  method: copy
+  source:
+  - name: obj/P_EX100_WI.texture
+- name: obj/P_EX100_WI_BTLF.model
+  method: copy
+  source:
+  - name: obj/P_EX100_WI_BTLF.model
+- name: obj/P_EX100_WI_BTLF.texture
+  method: copy
+  source:
+  - name: obj/P_EX100_WI_BTLF.texture
+- name: obj/P_EX100_WI_HTLF.model
+  method: copy
+  source:
+  - name: obj/P_EX100_WI_HTLF.model
+- name: obj/P_EX100_WI_HTLF.texture
+  method: copy
+  source:
+  - name: obj/P_EX100_WI_HTLF.texture
+- name: obj/P_EX100_WI_KH1F.model
+  method: copy
+  source:
+  - name: obj/P_EX100_WI_KH1F.model
+- name: obj/P_EX100_WI_KH1F.texture
+  method: copy
+  source:
+  - name: obj/P_EX100_WI_KH1F.texture
+- name: obj/P_EX100_WI_MAGF.model
+  method: copy
+  source:
+  - name: obj/P_EX100_WI_MAGF.model
+- name: obj/P_EX100_WI_MAGF.texture
+  method: copy
+  source:
+  - name: obj/P_EX100_WI_MAGF.texture
+- name: obj/P_EX100_WI_TRIF.model
+  method: copy
+  source:
+  - name: obj/P_EX100_WI_TRIF.model
+- name: obj/P_EX100_WI_TRIF.texture
+  method: copy
+  source:
+  - name: obj/P_EX100_WI_TRIF.texture
+- name: obj/P_EX100_WI_ULTF.model
+  method: copy
+  source:
+  - name: obj/P_EX100_WI_ULTF.model
+- name: obj/P_EX100_WI_ULTF.texture
+  method: copy
+  source:
+  - name: obj/P_EX100_WI_ULTF.texture
+- name: obj/P_EX100_XM.imd
+  method: copy
+  source:
+  - name: obj/P_EX100_XM.imd
+- name: obj/P_EX100_XM.sqd
+  method: copy
+  source:
+  - name: obj/P_EX100_XM.sqd
+- name: obj/P_EX110.model
+  method: copy
+  source:
+  - name: obj/P_EX110.model
+- name: obj/P_EX110.texture
+  method: copy
+  source:
+  - name: obj/P_EX110.texture
+- name: obj/P_EX110_NPC_PAJAMAS.model
+  method: copy
+  source:
+  - name: obj/P_EX110_NPC_PAJAMAS.model
+- name: obj/P_EX110_NPC_PAJAMAS.texture
+  method: copy
+  source:
+  - name: obj/P_EX110_NPC_PAJAMAS.texture
+- name: obj/P_EX120.model
+  method: copy
+  source:
+  - name: obj/P_EX120.model
+- name: obj/P_EX120.texture
+  method: copy
+  source:
+  - name: obj/P_EX120.texture
+- name: obj/W_EX010.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010.mdlx
+- name: obj/W_EX010_10.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_10.mdlx
+- name: obj/W_EX010_10_NM.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_10_NM.mdlx
+- name: obj/W_EX010_10_TR.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_10_TR.mdlx
+- name: obj/W_EX010_10_WI.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_10_WI.mdlx
+- name: obj/W_EX010_20.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_20.mdlx
+- name: obj/W_EX010_20_NM.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_20_NM.mdlx
+- name: obj/W_EX010_20_TR.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_20_TR.mdlx
+- name: obj/W_EX010_20_WI.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_20_WI.mdlx
+- name: obj/W_EX010_30.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_30.mdlx
+- name: obj/W_EX010_30_NM.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_30_NM.mdlx
+- name: obj/W_EX010_30_TR.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_30_TR.mdlx
+- name: obj/W_EX010_30_WI.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_30_WI.mdlx
+- name: obj/W_EX010_40.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_40.mdlx
+- name: obj/W_EX010_40_NM.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_40_NM.mdlx
+- name: obj/W_EX010_40_TR.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_40_TR.mdlx
+- name: obj/W_EX010_40_WI.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_40_WI.mdlx
+- name: obj/W_EX010_50.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_50.mdlx
+- name: obj/W_EX010_50_NM.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_50_NM.mdlx
+- name: obj/W_EX010_50_TR.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_50_TR.mdlx
+- name: obj/W_EX010_50_WI.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_50_WI.mdlx
+- name: obj/W_EX010_60.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_60.mdlx
+- name: obj/W_EX010_60_NM.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_60_NM.mdlx
+- name: obj/W_EX010_60_TR.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_60_TR.mdlx
+- name: obj/W_EX010_60_WI.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_60_WI.mdlx
+- name: obj/W_EX010_70.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_70.mdlx
+- name: obj/W_EX010_70_NM.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_70_NM.mdlx
+- name: obj/W_EX010_70_TR.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_70_TR.mdlx
+- name: obj/W_EX010_70_WI.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_70_WI.mdlx
+- name: obj/W_EX010_80.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_80.mdlx
+- name: obj/W_EX010_80_NM.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_80_NM.mdlx
+- name: obj/W_EX010_80_TR.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_80_TR.mdlx
+- name: obj/W_EX010_80_WI.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_80_WI.mdlx
+- name: obj/W_EX010_90.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_90.mdlx
+- name: obj/W_EX010_90_NM.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_90_NM.mdlx
+- name: obj/W_EX010_90_TR.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_90_TR.mdlx
+- name: obj/W_EX010_90_WI.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_90_WI.mdlx
+- name: obj/W_EX010_A0.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_A0.mdlx
+- name: obj/W_EX010_A0_NM.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_A0_NM.mdlx
+- name: obj/W_EX010_A0_TR.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_A0_TR.mdlx
+- name: obj/W_EX010_A0_WI.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_A0_WI.mdlx
+- name: obj/W_EX010_B0.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_B0.mdlx
+- name: obj/W_EX010_B0_NM.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_B0_NM.mdlx
+- name: obj/W_EX010_B0_TR.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_B0_TR.mdlx
+- name: obj/W_EX010_B0_WI.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_B0_WI.mdlx
+- name: obj/W_EX010_C0.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_C0.mdlx
+- name: obj/W_EX010_C0_NM.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_C0_NM.mdlx
+- name: obj/W_EX010_C0_TR.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_C0_TR.mdlx
+- name: obj/W_EX010_C0_WI.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_C0_WI.mdlx
+- name: obj/W_EX010_D0.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_D0.mdlx
+- name: obj/W_EX010_D0_NM.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_D0_NM.mdlx
+- name: obj/W_EX010_D0_TR.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_D0_TR.mdlx
+- name: obj/W_EX010_D0_WI.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_D0_WI.mdlx
+- name: obj/W_EX010_E0.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_E0.mdlx
+- name: obj/W_EX010_E0_NM.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_E0_NM.mdlx
+- name: obj/W_EX010_E0_TR.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_E0_TR.mdlx
+- name: obj/W_EX010_E0_WI.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_E0_WI.mdlx
+- name: obj/W_EX010_F0.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_F0.mdlx
+- name: obj/W_EX010_F0_NM.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_F0_NM.mdlx
+- name: obj/W_EX010_F0_TR.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_F0_TR.mdlx
+- name: obj/W_EX010_F0_WI.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_F0_WI.mdlx
+- name: obj/W_EX010_G0.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_G0.mdlx
+- name: obj/W_EX010_G0_NM.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_G0_NM.mdlx
+- name: obj/W_EX010_G0_TR.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_G0_TR.mdlx
+- name: obj/W_EX010_G0_WI.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_G0_WI.mdlx
+- name: obj/W_EX010_H0.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_H0.mdlx
+- name: obj/W_EX010_H0_NM.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_H0_NM.mdlx
+- name: obj/W_EX010_H0_TR.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_H0_TR.mdlx
+- name: obj/W_EX010_H0_WI.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_H0_WI.mdlx
+- name: obj/W_EX010_J0.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_J0.mdlx
+- name: obj/W_EX010_J0_NM.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_J0_NM.mdlx
+- name: obj/W_EX010_J0_TR.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_J0_TR.mdlx
+- name: obj/W_EX010_J0_WI.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_J0_WI.mdlx
+- name: obj/W_EX010_K0.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_K0.mdlx
+- name: obj/W_EX010_K0_NM.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_K0_NM.mdlx
+- name: obj/W_EX010_K0_TR.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_K0_TR.mdlx
+- name: obj/W_EX010_K0_WI.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_K0_WI.mdlx
+- name: obj/W_EX010_M0.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_M0.mdlx
+- name: obj/W_EX010_M0_NM.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_M0_NM.mdlx
+- name: obj/W_EX010_M0_TR.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_M0_TR.mdlx
+- name: obj/W_EX010_M0_WI.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_M0_WI.mdlx
+- name: obj/W_EX010_N0.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_N0.mdlx
+- name: obj/W_EX010_N0_NM.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_N0_NM.mdlx
+- name: obj/W_EX010_N0_TR.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_N0_TR.mdlx
+- name: obj/W_EX010_N0_WI.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_N0_WI.mdlx
+- name: obj/W_EX010_P0.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_P0.mdlx
+- name: obj/W_EX010_P0_NM.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_P0_NM.mdlx
+- name: obj/W_EX010_P0_TR.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_P0_TR.mdlx
+- name: obj/W_EX010_P0_WI.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_P0_WI.mdlx
+- name: obj/W_EX010_R0.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_R0.mdlx
+- name: obj/W_EX010_R0_NM.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_R0_NM.mdlx
+- name: obj/W_EX010_R0_TR.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_R0_TR.mdlx
+- name: obj/W_EX010_R0_WI.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_R0_WI.mdlx
+- name: obj/W_EX010_TR.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_TR.mdlx
+- name: obj/W_EX010_WI.mdlx
+  method: copy
+  source:
+  - name: obj/W_EX010_WI.mdlx
+- name: remastered/obj/P_EX100.a.us/-8.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100.a.us/-8.dds
+- name: remastered/obj/P_EX100_HTLF.a.us/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_HTLF.a.us/-3.dds
+- name: remastered/obj/P_EX100_SIDECAR.a.us/-8.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_SIDECAR.a.us/-8.png
+- name: remastered/obj/P_EX100_TR.a.us/-8.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TR.a.us/-8.dds
+- name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.us/-8.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.us/-8.png
+- name: remastered/obj/P_EX100_WI.a.us/-8.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_WI.a.us/-8.dds
+- name: remastered/obj/P_EX100_WI_HTLF.a.us/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_WI_HTLF.a.us/-3.dds
+- name: remastered/obj/P_EX100_XM.a.us/-8.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_XM.a.us/-8.dds
+- name: remastered/obj/P_EX100_XM_HTLF.a.us/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_XM_HTLF.a.us/-3.dds
+- name: remastered/menu/fm/title.2ld/-2.png
+  method: copy
+  source:
+  - name: remastered/menu/fm/title.2ld/-2.png
+- name: remastered/menu/fm/title.2ld/-3.png
+  method: copy
+  source:
+  - name: remastered/menu/fm/title.2ld/-3.png
+- name: remastered/menu/fm/title.2ld/-4.png
+  method: copy
+  source:
+  - name: remastered/menu/fm/title.2ld/-4.png
+- name: remastered/menu/fm/title.2ld/-5.png
+  method: copy
+  source:
+  - name: remastered/menu/fm/title.2ld/-5.png
+- name: remastered/menu/fm/title.2ld/-6.png
+  method: copy
+  source:
+  - name: remastered/menu/fm/title.2ld/-6.png
+- name: remastered/menu/fm/title.2ld/-7.png
+  method: copy
+  source:
+  - name: remastered/menu/fm/title.2ld/-7.png
