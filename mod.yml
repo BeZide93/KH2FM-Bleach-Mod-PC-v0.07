@@ -1172,6 +1172,23 @@ assets:
   method: copy
   source:
   - name: remastered/obj/P_EX100_XM.a.us/-8.dds
+- name: remastered/obj/P_EX100_WI.a.us/-8.dds
+  platform: pc
+  multi:
+  - name: remastered/obj/P_EX100_WI_BTLF.a.us/-4.dds
+  - name: remastered/obj/P_EX100_WI_KH1F.a.us/-9.dds
+  - name: remastered/obj/P_EX100_WI_MAGF.a.us/-2.dds
+  - name: remastered/obj/P_EX100_WI_TRIF.a.us/-5.dds
+  - name: remastered/obj/P_EX100_WI_ULTF.a.us/-10.dds
+  - name: remastered/obj/P_EX100_TR.a.us/-8.dds
+  - name: remastered/obj/P_EX100_TR_BTLF.a.us/-4.dds
+  - name: remastered/obj/P_EX100_TR_KH1F.a.us/-9.dds
+  - name: remastered/obj/P_EX100_TR_MAGF.a.us/-2.dds
+  - name: remastered/obj/P_EX100_TR_TRIF.a.us/-5.dds
+  - name: remastered/obj/P_EX100_TR_ULTF.a.us/-10.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_WI.a.us/-8.dds
 - name: remastered/obj/P_EX100.a.us/-8.dds
   platform: pc
   multi:
@@ -1186,21 +1203,9 @@ assets:
   - name: remastered/obj/P_EX100_NM_TRIF.a.us/-5.dds
   - name: remastered/obj/P_EX100_NM_ULTF.a.us/-10.dds
   - name: remastered/obj/P_EX100_SIDECAR.a.us/-8.dds
-  - name: remastered/obj/P_EX100_TR.a.us/-8.dds
-  - name: remastered/obj/P_EX100_TR_BTLF.a.us/-4.dds
-  - name: remastered/obj/P_EX100_TR_KH1F.a.us/-9.dds
   - name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.us/-8.dds
-  - name: remastered/obj/P_EX100_TR_MAGF.a.us/-2.dds
-  - name: remastered/obj/P_EX100_TR_TRIF.a.us/-5.dds
-  - name: remastered/obj/P_EX100_TR_ULTF.a.us/-10.dds
   - name: remastered/obj/P_EX100_TRIF.a.us/-5.dds
   - name: remastered/obj/P_EX100_ULTF.a.us/-10.dds
-  - name: remastered/obj/P_EX100_WI.a.us/-8.dds
-  - name: remastered/obj/P_EX100_WI_BTLF.a.us/-4.dds
-  - name: remastered/obj/P_EX100_WI_KH1F.a.us/-9.dds
-  - name: remastered/obj/P_EX100_WI_MAGF.a.us/-2.dds
-  - name: remastered/obj/P_EX100_WI_TRIF.a.us/-5.dds
-  - name: remastered/obj/P_EX100_WI_ULTF.a.us/-10.dds
   - name: remastered/obj/P_EX110.a.us/-0.dds
   - name: remastered/obj/P_EX110_BTLF.a.us/-0.dds
   - name: remastered/obj/P_EX120.a.us/-8.dds
@@ -1211,8 +1216,6 @@ assets:
   platform: pc
   multi:
   - name: remastered/obj/P_EX100_NM_HTLF.a.us/-3.dds
-  - name: remastered/obj/P_EX100_TR_HTLF.a.us/-3.dds
-  - name: remastered/obj/P_EX100_WI_HTLF.a.us/-3.dds
   method: copy
   source:
   - name: remastered/obj/P_EX100_HTLF.a.us/-3.dds
@@ -1221,3 +1224,17 @@ assets:
   method: copy
   source:
   - name: remastered/obj/P_EX100_XM_HTLF.a.us/-3.dds
+- name: remastered/obj/P_EX100_WI_HTLF.a.us/-3.dds
+  platform: pc
+  multi:
+  - name: remastered/obj/P_EX100_TR_HTLF.a.us/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_WI_HTLF.a.us/-3.dds
+- name: remastered/obj/P_EX100_SIDECAR.a.us/-8.png
+  platform: pc
+  multi:
+  - name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.us/-8.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_SIDECAR.a.us/-8.png
