@@ -1233,8 +1233,11 @@ assets:
   - name: remastered/obj/P_EX100_WI_HTLF.a.us/-3.dds
 - name: remastered/obj/P_EX100_SIDECAR.a.us/-8.png
   platform: pc
-  multi:
-  - name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.us/-8.png
   method: copy
   source:
   - name: remastered/obj/P_EX100_SIDECAR.a.us/-8.png
+- name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.us/-8.png
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.us/-8.png
