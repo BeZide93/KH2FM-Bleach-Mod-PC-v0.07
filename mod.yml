@@ -191,6 +191,17 @@ assets:
   method: copy
   source:
   - name: remastered/menu/title.2ld/-7.png
+- name: remastered/menu/us/title.2ld/-8.png
+  multi:
+  - name: remastered/menu/gr/title.2ld/-8.png
+  - name: remastered/menu/it/title.2ld/-8.png
+  - name: remastered/menu/sp/title.2ld/-8.png
+  - name: remastered/menu/fr/title.2ld/-8.png
+  - name: remastered/menu/uk/title.2ld/-8.png
+  - name: remastered/menu/fm/title.2ld/-8.png
+  method: copy
+  source:
+  - name: remastered/menu/title.2ld/-8.png
 #ps2 text
 - name: msg/jp/sys.bar
   platform: ps2
