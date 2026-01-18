@@ -44,46 +44,46 @@ assets:
   source:
   - name: menu/shopface/p_xm100.bin
 #Shopface PC
-- name: menu/shopface/p_ex100.bin
+- name: remastered/menu/shopface/p_ex100.bin/-0.dds
   platform: pc
   method: copy
   source:
-  - name: menu/shopface/p_ex100.bin
-- name: menu/shopface/p_ex100_10.bin
+  - name: remastered/menu/shopface/p_ex100.bin/-0.dds
+- name: remastered/menu/shopface/p_ex100_10.bin/-0.dds
   platform: pc
   method: copy
   source:
-  - name: menu/shopface/p_ex100_10.bin
-- name: menu/shopface/p_ex100_20.bin
+  - name: remastered/menu/shopface/p_ex100_10.bin/-0.dds
+- name: remastered/menu/shopface/p_ex100_20.bin/-0.dds
   platform: pc
   method: copy
   source:
-  - name: menu/shopface/p_ex100_20.bin
-- name: menu/shopface/p_ex100_30.bin
+  - name: remastered/menu/shopface/p_ex100_20.bin/-0.dds
+- name: remastered/menu/shopface/p_ex100_30.bin/-0.dds
   platform: pc
   method: copy
   source:
-  - name: menu/shopface/p_ex100_30.bin
-- name: menu/shopface/p_ex110.bin
+  - name: remastered/menu/shopface/p_ex100_30.bin/-0.dds
+- name: remastered/menu/shopface/p_ex110.bin/-0.dds
   platform: pc
   method: copy
   source:
-  - name: menu/shopface/p_ex110.bin
-- name: menu/shopface/p_ex120.bin
+  - name: remastered/menu/shopface/p_ex110.bin/-0.dds
+- name: remastered/menu/shopface/p_ex120.bin/-0.dds
   platform: pc
   method: copy
   source:
-  - name: menu/shopface/p_ex120.bin
-- name: menu/shopface/p_lk100.bin
+  - name: remastered/menu/shopface/p_ex120.bin/-0.dds
+- name: remastered/menu/shopface/p_lk100.bin/-0.dds
   platform: pc
   method: copy
   source:
-  - name: menu/shopface/p_lk100.bin
-- name: menu/shopface/p_xm100.bin
+  - name: remastered/menu/shopface/p_lk100.bin/-0.dds
+- name: remastered/menu/shopface/p_xm100.bin/-0.dds
   platform: pc
   method: copy
   source:
-  - name: menu/shopface/p_xm100.bin
+  - name: remastered/menu/shopface/p_xm100.bin/-0.dds
 #Menus ps2
 - name: menu/fm/ending.2ld
   platform: ps2
