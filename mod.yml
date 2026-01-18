@@ -85,16 +85,16 @@ assets:
   source:
   - name: remastered/menu/shopface/p_xm100.bin/-0.dds
 #Menus ps2
-#- name: menu/fm/ending.2ld
-#  platform: ps2
-#  method: copy
-#  source:
-#  - name: menu/ending.2ld
-#- name: menu/fm/title.2ld
-#  platform: ps2
-#  method: copy
-#  source:
-#  - name: menu/title.2ld
+- name: menu/fm/ending.2ld
+  platform: ps2
+  method: copy
+  source:
+  - name: menu/ending.2ld
+- name: menu/fm/title.2ld
+  platform: ps2
+  method: copy
+  source:
+  - name: menu/title.2ld
 #Menus PC
 - name: remastered/menu/us/title.2ld/US_title_2ld2.png
   multi:
