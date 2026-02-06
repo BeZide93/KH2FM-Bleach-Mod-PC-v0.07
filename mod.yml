@@ -1519,26 +1519,26 @@ assets:
   method: copy
   source:
   - name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.us/-8.png
-- name: remastered/obj/B_EX410.mdlx/-1.png
+- name: remastered/obj/B_EX410.mdlx/-1.dds
   platform: pc
   method: copy
   source:
-  - name: remastered/obj/B_EX410.mdlx/-1.png
-- name: remastered/obj/M_EX860.mdlx/-0.png
+  - name: remastered/obj/B_EX410.mdlx/-1.dds
+- name: remastered/obj/M_EX860.mdlx/-0.dds
   platform: pc
   method: copy
   source:
-  - name: remastered/obj/M_EX860.mdlx/-0.png
-- name: remastered/obj/M_EX950_CARD.mdlx/-0.png
+  - name: remastered/obj/M_EX860.mdlx/-0.dds
+- name: remastered/obj/M_EX950_CARD.mdlx/-0.dds
   platform: pc
   method: copy
   source:
-  - name: remastered/obj/M_EX950_CARD.mdlx/-0.png
-- name: remastered/obj/M_EX950_DICE.mdlx/-0.png
+  - name: remastered/obj/M_EX950_CARD.mdlx/-0.dds
+- name: remastered/obj/M_EX950_DICE.mdlx/-0.dds
   platform: pc
   method: copy
   source:
-  - name: remastered/obj/M_EX950_DICE.mdlx/-0.png
+  - name: remastered/obj/M_EX950_DICE.mdlx/-0.dds
 - name: remastered/msn/us/EH14_MS103.bar/US_EH14_MS103_bar0.png
   platform: pc
   multi:
