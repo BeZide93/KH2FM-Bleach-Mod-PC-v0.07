@@ -1841,3 +1841,28 @@ assets:
   method: copy
   source:
   - name: remastered/menu/jmface_xx.2ld/-0.dds
+#pause
+- name: remastered/menu/us/pause.2ld/US_pause_2ld1.dds
+  platform: pc
+  multi:
+  - name: remastered/menu/uk/pause.2ld/UK_pause_2ld1.dds
+  - name: remastered/menu/sp/pause.2ld/SP_pause_2ld1.dds
+  - name: remastered/menu/it/pause.2ld/IT_pause_2ld1.dds
+  - name: remastered/menu/gr/pause.2ld/GR_pause_2ld1.dds
+  - name: remastered/menu/fr/pause.2ld/FR_pause_2ld1.dds
+  method: copy
+  source:
+  - name: remastered/menu/us/pause.2ld/US_pause_2ld1.dds
+#save
+- name: remastered/menu/us/save.2ld/US_save_2ld1.png
+  platform: pc
+  multi:
+  - name: remastered/menu/uk/save.2ld/UK_save_2ld1.png
+  - name: remastered/menu/sp/save.2ld/SP_save_2ld1.png
+  - name: remastered/menu/it/save.2ld/IT_save_2ld1.png
+  - name: remastered/menu/gr/save.2ld/GR_save_2ld1.png
+  - name: remastered/menu/fr/save.2ld/FR_save_2ld1.png
+  method: copy
+  source:
+  - name: remastered/menu/us/save.2ld/US_save_2ld1.png
+
