@@ -1077,6 +1077,11 @@ assets:
   - name: obj/P_EX100_TR_LIGHTCYCLE.mdlx
   - name: obj/P_EX100_WM.mdlx
   - name: obj/P_EX100_XM.mdlx
+  - name: obj/AL14_PLAYER.mdlx
+  - name: obj/PO06_PLAYER.mdlx
+  - name: obj/PO07_PLAYER.mdlx
+  - name: obj/PO08_PLAYER.mdlx
+  - name: obj/TR_PLAYER.mdlx
   method: binarc
   source:
   - name: p_ex
