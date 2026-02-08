@@ -2253,5 +2253,9 @@ assets:
   method: copy
   source:
   - name: vagstream/Title.win32.scd
+- name: se/se000.win32.scd
+  method: copy
+  source:
+  - name: se/se000.win32.scd
 
 
