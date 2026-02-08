@@ -1066,3 +1066,18 @@
   en: >-
     Proof of appeasing the Mushroom {XIII}.
     Perhaps it has changed Ichigo.
+- id: 1294
+  en: Getsuga Tensho
+- id: 1295
+  en: Getsuga Tensho+
+- id: 1296
+  en: Getsuga Tensho++
+- id: 1590
+  en: Getsuga Element
+- id: 15354
+  en: Getsuga Boost
+- id: 15355
+  en: >-
+    Increases damage done with Getsuga-
+    based attacks by {:color #F0F00080}20%{:reset}.
+    Equip more to increase the effect.
