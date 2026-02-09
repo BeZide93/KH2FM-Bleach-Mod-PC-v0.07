@@ -2050,6 +2050,17 @@ assets:
   source:
   - name: remastered/menu/us/pause.2ld/US_pause_2ld1.dds
 #save
+- name: remastered/menu/us/save.2ld/US_save_2ld0.png
+  platform: pc
+  multi:
+  - name: remastered/menu/uk/save.2ld/UK_save_2ld0.png
+  - name: remastered/menu/sp/save.2ld/SP_save_2ld0.png
+  - name: remastered/menu/it/save.2ld/IT_save_2ld0.png
+  - name: remastered/menu/gr/save.2ld/GR_save_2ld0.png
+  - name: remastered/menu/fr/save.2ld/FR_save_2ld0.png
+  method: copy
+  source:
+  - name: remastered/menu/us/save.2ld/US_save_2ld0.png
 - name: remastered/menu/us/save.2ld/US_save_2ld1.png
   platform: pc
   multi:
@@ -2061,6 +2072,51 @@ assets:
   method: copy
   source:
   - name: remastered/menu/us/save.2ld/US_save_2ld1.png
+#camp
+- name: remastered/menu/us/camp.2ld/US_camp_2ld0.png
+  platform: pc
+  multi:
+  - name: remastered/menu/uk/camp.2ld/UK_camp_2ld0.png
+  - name: remastered/menu/sp/camp.2ld/SP_camp_2ld0.png
+  - name: remastered/menu/it/camp.2ld/IT_camp_2ld0.png
+  - name: remastered/menu/gr/camp.2ld/GR_camp_2ld0.png
+  - name: remastered/menu/fr/camp.2ld/FR_camp_2ld0.png
+  method: copy
+  source:
+  - name: remastered/menu/us/camp.2ld/US_camp_2ld0.png
+- name: remastered/menu/us/camp.2ld/US_camp_2ld1.png
+  platform: pc
+  multi:
+  - name: remastered/menu/uk/camp.2ld/UK_camp_2ld1.png
+  - name: remastered/menu/sp/camp.2ld/SP_camp_2ld1.png
+  - name: remastered/menu/it/camp.2ld/IT_camp_2ld1.png
+  - name: remastered/menu/gr/camp.2ld/GR_camp_2ld1.png
+  - name: remastered/menu/fr/camp.2ld/FR_camp_2ld1.png
+  method: copy
+  source:
+  - name: remastered/menu/us/camp.2ld/US_camp_2ld1.png
+- name: remastered/menu/us/camp.2ld/US_camp_2ld2.png
+  platform: pc
+  multi:
+  - name: remastered/menu/uk/camp.2ld/UK_camp_2ld2.png
+  - name: remastered/menu/sp/camp.2ld/SP_camp_2ld2.png
+  - name: remastered/menu/it/camp.2ld/IT_camp_2ld2.png
+  - name: remastered/menu/gr/camp.2ld/GR_camp_2ld2.png
+  - name: remastered/menu/fr/camp.2ld/FR_camp_2ld2.png
+  method: copy
+  source:
+  - name: remastered/menu/us/camp.2ld/US_camp_2ld2.png
+- name: remastered/menu/us/camp.2ld/US_camp_2ld3.png
+  platform: pc
+  multi:
+  - name: remastered/menu/uk/camp.2ld/UK_camp_2ld3.png
+  - name: remastered/menu/sp/camp.2ld/SP_camp_2ld3.png
+  - name: remastered/menu/it/camp.2ld/IT_camp_2ld3.png
+  - name: remastered/menu/gr/camp.2ld/GR_camp_2ld3.png
+  - name: remastered/menu/fr/camp.2ld/FR_camp_2ld3.png
+  method: copy
+  source:
+  - name: remastered/menu/us/camp.2ld/US_camp_2ld3.png
 #ending
 - name: remastered/menu/us/ending.2ld/US_ending_2ld2.png
   platform: pc
